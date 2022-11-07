@@ -1,5 +1,5 @@
 {
-  "name": "data",
+  "name": "di",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -11,6 +11,10 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "core": "*",
+    "data": "*"
+  },
   "devDependencies": {
     "@rollup/plugin-typescript": "^8.3.3",
     "@types/jest": "^28.1.6",
