@@ -176,5 +176,6 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,node
 
+build
 archive
 ref.md
